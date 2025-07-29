@@ -27,4 +27,5 @@ input()
 print("Alfo and Jakka then left for Mayscore Mall, while Teiya went home. Alfo went to a playplace in the mall whie Jakka drifted around until he saw the food market; he bought bread and cream, as he loved bread in sweetened cream.")
 print("Teiya wrote a letter to Saterl, her best friend. She wrote \"Saterl, when do you want to meet up?\" and sighed, thinking all about those allegations against Olan, a local celebrity. Olan wanted to protest against the government\'s policies on work, but he was dealing with allegations that he got in trouble with Alfo, as Olan was indebted towards Alfo.")
 print("(Press enter to continue)")
-input() #I'm running out of ideas here.
+input()
+print("In another part of Maynesborough, Alfo's and Olan's parents agreed to settle the debt; Olan's and Alfo's respective parents had written a letter for the both to read together.")
