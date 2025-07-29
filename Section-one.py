@@ -16,7 +16,7 @@ print("The country guides were recited once a day in the respective Markpoint Ha
 print("The fine would be waived if the age of the person was 17 or younger, as the government stated \"No minor shall be required to attend these meetings, for they are largely only applicable to adults.\"")
 print("(Press enter to continue)")
 input()
-print("\"These meetings are fun, but why every day?\" asked Alfo. \"Government says so. We also get paid lots for this, especially on day one of the Final Week of the Year. We get paid thrice the amount we normally get, and we don't get taxed for any bonuses we receive. You should do one of these one time, young one.\"")
+print("\"These meetings are fun, but why every day?\" asked Alfo. \"Government says so. We also get paid lots for this, especially on day one of the Final Week of the Year. We get paid thrice the amount we normally get on that day, and we don't get taxed for any bonuses we receive. You should do one of these one time, young one.\"")
 print("\"I see... In any case, I gotta get back to Jakka, one of my fellows; Teiya came with me, because she wants to take part in this \"competition nonsense\".\" said Alfo.")
 print("(Press enter to continue)")
 input()
@@ -24,3 +24,7 @@ print("Teiya and Alfo then rushed to get Jakka, then the trio rushed to Naybridg
 print("\"Hey! What did I do?\" questioned Teiya, as she wanted an escape. The situation calmed down; The others apologised as soon as she questioned them. \"We\'re sorry, ma\'am. You did well.\" one said, as another hugged her with her consent.")
 print("(Press enter to continue)")
 input()
+print("Alfo and Jakka then left for Mayscore Mall, while Teiya went home. Alfo went to a playplace in the mall whie Jakka drifted around until he saw the food market; he bought bread and cream, as he loved bread in sweetened cream.")
+print("Teiya wrote a letter to Saterl, her best friend. She wrote \"Saterl, when do you want to meet up?\" and sighed, thinking all about those allegations against Olan, a local celebrity. Olan wanted to protest against the government\'s policies on work, but he was dealing with allegations that he got in trouble with Alfo, as Olan was indebted towards Alfo.")
+print("(Press enter to continue)")
+input() #I'm running out of ideas here.
