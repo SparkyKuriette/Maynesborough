@@ -26,3 +26,4 @@ print("They came back home later, and started to worry about how to fix each oth
 input("(Press enter to continue)")
 print("\"Teiya!\" both yelled. \"What now, you 2? Olan, I thought ya-\" said Teiya, greeting both at the door. \"It's OK! Our parents did the debt thing and told us, through a letter, that they give I-owe-yous to each other on a regular basis and not to worry about anything.\"")
 print("\"I see... I dunno how yer reputation's going to be fixed, Olan!")
+#I'm taking a break from writing.
